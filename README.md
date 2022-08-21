@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fatogunibidapo@ymail.com**
 
-- ⚡ Fun fact **I'm interested in people, languages and cultures. I believe the planet is our baby and we have to take care of it.**
+- ⚡ Fun fact **I'm a people person, I'm interested in languages and cultures. I believe the planet is our baby and we have to take care of it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

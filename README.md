@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibidapo</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **my university's convocation website**
-
-- 🌱 I’m currently learning **the technologies in the MERN stack, as well as improving my mobile app development skills (React-Native).)**
 
 - 💬 Ask me about **Javascript, Python, React-Native**
 

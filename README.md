@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
 
-- 💬 Ask me about **Javascript, Python, React-Native**
+- 💬 Ask me about **Javascript, Python, React-Native, React, Typescript**
 
 - 📫 How to reach me **fatogunibidapo@ymail.com**
 
